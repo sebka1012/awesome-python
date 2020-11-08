@@ -1,5 +1,7 @@
 # Contributing
 
+Bitte sende eine Email an: libelings_kollege@firma.de
+
 Your contributions are always welcome!
 
 ## Guideline
